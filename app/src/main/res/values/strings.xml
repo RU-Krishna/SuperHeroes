@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">SuperHeroes</string>
+    <!-- Ant Man-->
+    <string name="ant_man">Ant Man</string>
+    <string name="ant_man_ability">Super Human Strength and Agility.
+        Maintains strength of normal size in shrunken state</string>
+
+    <!--Aqua Man-->
+    <string name="aqua_man">Aqua Man</string>
+    <string name="aqua_man_ability">Superhuman strength, intelligence,
+        durability, endurance, speed.
+        Hydro kinesis, Telepathic Control over Aquatic life.
+    </string>
+
+    <!--Bat Man-->
+    <string name="bat_man">Bat Man</string>
+    <string name="bat_man_ability">Genius-Level Intellect, Expert Detective
+    Utilizes high tech-equipment and weapons.</string>
+
+    <!--Black Panther-->
+    <string name="black_panther">BLack Panther</string>
+    <string name="black_panther_ability">Expert hand-to-hand combatant and martial artist.
+      Utilizing vibranium suit and equipment
+</string>
+
+    <!--Captain America-->
+    <string name="captain_america">Captain America</string>
+    <string name="captain_america_ability">Enhanced strength, speed, stamina, durability,
+        agility, reflexes, senses, and mental processing
+        via the super soldier serum.
+        Accelerated healing.
+    </string>
+    
+    <!--Captain Marvel-->
+    <string name="captain_marvel">Captain Marvel</string>
+    <string name="captain_marvel_ability">Energy manipulation, absorption, and projection.
+    "Seventh sense" granting flash precognition.
+    Human/Kree physiology granting resistance to toxins and poisons.</string>
+
+     <!--Doctor Strange-->
+    <string name="doctor_strange">Doctor Strange</string>
+    <string name="doctor_strange_ability">Mastery of magic.
+        Utilizes mystical artifacts, such as the Cloak of Levitation
+        and the Eye of Agamotto.
+    </string>
+
+    <!--Hawkeye-->
+    <string name="hawkeye">Hawkeye</string>
+    <string name="hawkeye_ability">Master archer and marksman.
+    Uses a variety of trick arrows.</string>
+
+    <!--Hulk-->
+    <string name="hulk">Hulk</string>
+    <string name="hulk_ability">Shockwave generation.
+        Gamma ray emission and manipulation.
+    </string>
+
+    <!--Iron Fist-->
+    <string name="iron_fist">Iron Fist</string>
+    <string name="iron_fist_ability">Master martial artist.
+        Utilizing concentrated chi in his fist
+        called the \"Iron Fist\", a mystical weapon</string>
+    
+    <!--Iron Man-->
+    <string name="iron_man">Iron Man</string>
+    <string name="iron_man_ability">Genius level intellect.
+        Proficient scientist and engineer</string>
+
+    <!--Spider Man-->
+    <string name="spider_man">Spider Man</string>
+    <string name="spider_man_ability">Ability to cling to solid surfaces and ceilings.
+    Precognitive spider-sense ability</string>
+
+    <!--Thor-->
+    <string name="thor">Thor</string>
+    <string name="thor_ability">Inter-dimensional teleportation.
+    Electricity manipulation, Weather manipulation.</string>
+    
+</resources>
